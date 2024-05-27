@@ -1,0 +1,32 @@
+Movie
+{
+    background-color: brown;
+    padding: 20px;
+
+}
+h2
+{
+    background-color: black;
+    color: white;
+
+
+}
+h1
+{
+    color: white;
+}
+html
+{
+    background-color: black;
+}
+#movie-img
+{
+    margin-left: 100px;
+}
+p
+{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+
+}
