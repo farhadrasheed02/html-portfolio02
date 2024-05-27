@@ -4,10 +4,11 @@ div[id="Header"]
 background-color: black;
 width:350px;
 height: 50px;
-margin-left: 100px;
+margin-left: 400px;
 color: azure;
 font-weight: bold;
 padding-left:80px;
+text-align: center;
 }
 
 p[id="develop"]
@@ -23,12 +24,13 @@ p[id="develop"]
 footer
 {
     background-color: cornflowerblue;
-    width: 350px;
+    width: 400px;
     height: 40px;
     text-align: center;
     padding-top: 20px;
     font-weight: bold;
     font-size: large;
+    margin-left: 450px;
     
 }
 a[id="about"]
@@ -43,4 +45,9 @@ a[id="contact"]
 color: bisque;
 margin: 20px;
 margin-right: 50px;
+}
+img[id="linkedin"]
+{
+width: 20px;
+height: 20px;
 }
