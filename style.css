@@ -1,28 +1,46 @@
-Movie
+div[id="Header"]
 {
-    background-color: brown;
-    padding: 20px;
 
+background-color: black;
+width:350px;
+height: 50px;
+margin-left: 100px;
+color: azure;
+font-weight: bold;
+padding-left:80px;
 }
-.Portfolio
+
+p[id="develop"]
 {
     background-color: black;
-    color: white;
+    color: chartreuse;
+    margin-left: 10px;
+    width: 150px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
-
-html
+footer
 {
-    background-color: black;
-    color: white;
+    background-color: cornflowerblue;
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: large;
+    
 }
-#movie-img
+a[id="about"]
 {
-    margin-left: 100px;
+color: bisque;
+margin: 20px;
+margin-right: 50px;
+margin-top: 30px;
 }
-.contact
+a[id="contact"]
 {
-    background-color: black;
-    color: green;
-    font-weight: bolder;
-
+color: bisque;
+margin: 20px;
+margin-right: 50px;
 }
