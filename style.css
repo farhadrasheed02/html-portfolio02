@@ -4,29 +4,25 @@ Movie
     padding: 20px;
 
 }
-h2
+.Portfolio
 {
     background-color: black;
     color: white;
-
-
 }
-h1
-{
-    color: white;
-}
+
 html
 {
     background-color: black;
+    color: white;
 }
 #movie-img
 {
     margin-left: 100px;
 }
-p
+.contact
 {
     background-color: black;
-    color: white;
+    color: green;
     font-weight: bolder;
 
 }
